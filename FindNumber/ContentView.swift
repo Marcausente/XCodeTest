@@ -25,8 +25,9 @@ struct ContentView: View {
                 Text("100")
                     .padding(.trailing)
             }
+            .padding(.top)
     
-            
+
         }
     }
 }
